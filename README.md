@@ -15,4 +15,11 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
 
+### Evaluate Evidence (Compile Contract Success)
+
+<img width="362" alt="KaseiCrowdsaleCompile" src="https://user-images.githubusercontent.com/104539357/204600294-4dce2231-7bf8-4cea-a22c-3afae6987fb3.png">
+
+<img width="362" alt="KaseiCoinCompile" src="https://user-images.githubusercontent.com/104539357/204600503-69f7262e-f391-4364-b4ef-3da4777fe87f.png">
+
 ---
+
